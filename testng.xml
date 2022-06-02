@@ -1,0 +1,7 @@
+<suite name="Jenkins Demo">
+<test name="Selenium tests by Aditya Pandey">
+<classes>
+<class name="tests.UserLogin"/>
+</classes>
+</test>
+</suite>
